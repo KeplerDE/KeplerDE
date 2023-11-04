@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, dear visitors! 👋
 
-<!--
-**KeplerDE/KeplerDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a budding full-stack developer, and this is my GitHub page. I'm excited to have you here!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passion is building web applications and experimenting with new technologies. On my page, you'll find projects related to front-end, back-end, and many other aspects of development.
+
+## My Motivational Words
+
+> "The process of learning and growth never ends. It's important to keep learning and moving forward with confidence, even if you're a beginner. Every success starts with the first step."
+
+Let's explore the world of development together and create awesome projects! If you have any questions, ideas, or just want to say hello, feel free to reach out.
+
+Thank you for visiting!
