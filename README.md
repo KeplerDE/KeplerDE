@@ -36,7 +36,8 @@ I create Web apps in HTML/CSS, React, Redux, and the MERN Stack. Constantly expa
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
 </p>
-## Social Media
+
+## Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keplerde/">
