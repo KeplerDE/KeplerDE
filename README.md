@@ -50,9 +50,6 @@ I create Web apps in HTML/CSS, React, Redux, and the MERN Stack. Constantly expa
 
 ![Denis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keplerde&show_icons=true)
 
-## GitHub Streak
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keplerde)
 
 ## Top Langs
 
